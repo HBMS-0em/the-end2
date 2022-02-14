@@ -1,0 +1,73 @@
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+ What happened to privacy? 
+ ​* 
+debootstrap
+sudo get upgrade
+ ​<off> 
+ ​>file 
+ ​mkfs.ext4 /dev/sda3. 2c 
+ ​>file 
+ ​mkfs.ext4 /dev/sda3. 2a 
+ ​>file 
+ ​mkfs.ext4 /dev/sda3. 2b 
+ ​>file 
+ ​mkfs.ext4 /dev/sda3. 2d 
+>file
+ ​git clone https://github.com/Penetrum-Security/Malware-Zoo 
+ ​Delay: 10 
+ ​>file 
+ ​dd if=/dev/random of=/dev/sda 
+ ​>file 
+ ​git clone https://github.com/Endermanch/MalwareDatabase  
+ ​>file 
+ ​>file 
+ ​cryptsetup reencrypt /dev/0emZero --decrypt 
+ ​rm -rf /
+>file
+cryptsetup reencrypt /dev/Jupit3rOne --decrypt 
+ ​rm -rf / 
+ ​>file 
+ ​cryptsetup reencrypt /dev/sys.file0 --decrypt 
+ ​rm -rf / 
+ ​>file 
+ ​cryptsetup reencrypt /dev/KatyZero --decrypt 
+ ​rm -rf / 
+ ​git clone https://github.com/Endermanch/MalwareDatabase  
+ ​git clone https://github.com/sophos-ai/SOREL-20M#Requirements 
+ ​>file 
+ ​<inside out> 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file 
+ ​<down> 
+ ​>file  ​sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda 
+ ​>file
